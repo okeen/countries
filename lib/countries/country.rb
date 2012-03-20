@@ -23,7 +23,8 @@ class ISO3166::Country
     :national_prefix,
     :address_format,
     :ioc,
-    :un_locode
+    :un_locode,
+    :default_language
   ]
 
   AttrReaders.each do |meth|

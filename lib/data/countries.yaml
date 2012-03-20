@@ -1360,6 +1360,7 @@ DE:
   region: Europe
   subregion: "Western Europe"
   un_locode: DE
+  default_language: de
 DJ: 
   alpha2: DJ
   alpha3: DJI
@@ -1629,6 +1630,7 @@ ES:
   region: Europe
   subregion: "Southern Europe"
   un_locode: ES
+  default_language: es
 ET: 
   alpha2: ET
   alpha3: ETH
@@ -1807,6 +1809,7 @@ FR:
   region: Europe
   subregion: "Western Europe"
   un_locode: FR
+  default_language: fr
 GA: 
   alpha2: GA
   alpha3: GAB
@@ -1863,7 +1866,8 @@ GB:
   number: "826"
   region: Europe
   subregion: "Northern Europe"
-  un_locode: 
+  un_locode: GB
+  default_language: en  
 GD: 
   alpha2: GD
   alpha3: GRD
@@ -5656,6 +5660,7 @@ US:
   region: Americas
   subregion: "Northern America"
   un_locode: US
+  default_language: en
 UY: 
   alpha2: UY
   alpha3: URY
